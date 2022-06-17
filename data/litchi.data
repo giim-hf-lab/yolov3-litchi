@@ -1,0 +1,6 @@
+classes= 1
+train=/workspace/yolov3/data/train.txt
+valid=/workspace/yolov3/data/val.txt
+test=/workspace/yolov3/data/val.txt
+names=data/litchi.names
+backup = backup
