@@ -11,3 +11,5 @@ you can test the model performence by using the following command:
 ``` 
 python test.py --cfg cfg/prune_12_shortcut_prune_0.9_keep_0.01_yolov3-spp.cfg --data data/litchi.data --weights weights/last.pt --batch-size 32 --save-json --device 0 
 ``` 
+
+![litchi_demo](./asset/demo.png)
